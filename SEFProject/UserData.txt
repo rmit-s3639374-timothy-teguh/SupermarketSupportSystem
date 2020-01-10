@@ -1,0 +1,4 @@
+Customer, John, 100.0, 0
+SalesStaff, Kim
+WarehouseStaff, Frank
+Manager, Tim
